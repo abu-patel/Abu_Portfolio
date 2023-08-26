@@ -6,11 +6,11 @@
     <description>Recent content in Machine Learning on Abuzar Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abu-patel.github.io/Abu_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://abu-patel.github.io/Abu_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project I- Data Science Internship: Churn Prediction in a real world B2B Setting using Multi Time Slice approach</title>
       <link>https://abu-patel.github.io/Abu_Portfolio/post/project-1/</link>
-      <pubDate>Mon, 09 May 2022 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 19 May 2023 10:58:08 -0400</pubDate>
       
       <guid>https://abu-patel.github.io/Abu_Portfolio/post/project-1/</guid>
       <description>What sets this model so apart from tradiional approach ? Customer churn prediction models using machine learning classification have been developed predominantly by training and testing on one time slice of data. I trained models on multiple time slices of data and refer to this approach as multi-slicing. Results show that given the same time frame of data, multi-slicing significantly improves churn prediction performance compared to training on the entire data set as one time slice.</description>
@@ -19,7 +19,7 @@
     <item>
       <title>Project III: Mobile Phone Price Classifier - A Multi Response Classification</title>
       <link>https://abu-patel.github.io/Abu_Portfolio/post/project-3/</link>
-      <pubDate>Sun, 09 Jan 2022 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 12 Oct 2022 10:58:08 -0400</pubDate>
       
       <guid>https://abu-patel.github.io/Abu_Portfolio/post/project-3/</guid>
       <description>Created a tool for my STAT graduate level final project to classify price range of a mobile phone. I Optimized SVM Kernel, Radial, Random Forest, KNN, PCA and MultiNomial Logistic Regression to reach the best model and successfully received an A grade in the course.

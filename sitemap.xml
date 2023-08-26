@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abu-patel.github.io/Abu_Portfolio/tags/clustering/</loc>
-    <lastmod>2022-10-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://abu-patel.github.io/Abu_Portfolio/</loc>
-    <lastmod>2022-10-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abu-patel.github.io/Abu_Portfolio/post/project-2/</loc>
-    <lastmod>2022-10-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abu-patel.github.io/Abu_Portfolio/tags/</loc>
-    <lastmod>2022-10-09T10:58:08-04:00</lastmod>
+    <lastmod>2023-05-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://abu-patel.github.io/Abu_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2022-05-09T10:58:08-04:00</lastmod>
+    <lastmod>2023-05-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://abu-patel.github.io/Abu_Portfolio/post/project-1/</loc>
-    <lastmod>2022-05-09T10:58:08-04:00</lastmod>
+    <lastmod>2023-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abu-patel.github.io/Abu_Portfolio/tags/</loc>
+    <lastmod>2023-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abu-patel.github.io/Abu_Portfolio/tags/clustering/</loc>
+    <lastmod>2023-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abu-patel.github.io/Abu_Portfolio/post/project-2/</loc>
+    <lastmod>2023-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://abu-patel.github.io/Abu_Portfolio/post/project-3/</loc>
-    <lastmod>2022-01-09T10:58:08-04:00</lastmod>
+    <lastmod>2022-10-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
