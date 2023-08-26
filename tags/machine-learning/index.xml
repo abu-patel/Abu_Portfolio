@@ -17,11 +17,11 @@
     </item>
     
     <item>
-      <title>Project II: Mobile Phone Price Classifier - A Multi Response Classification</title>
-      <link>https://abu-patel.github.io/Abu_Portfolio/post/project-2/</link>
+      <title>Project III: Mobile Phone Price Classifier - A Multi Response Classification</title>
+      <link>https://abu-patel.github.io/Abu_Portfolio/post/project-3/</link>
       <pubDate>Sun, 09 Jan 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://abu-patel.github.io/Abu_Portfolio/post/project-2/</guid>
+      <guid>https://abu-patel.github.io/Abu_Portfolio/post/project-3/</guid>
       <description>Created a tool for my STAT graduate level final project to classify price range of a mobile phone. I Optimized SVM Kernel, Radial, Random Forest, KNN, PCA and MultiNomial Logistic Regression to reach the best model and successfully received an A grade in the course.
 I was able to get the model to predict with 95% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app.</description>
     </item>

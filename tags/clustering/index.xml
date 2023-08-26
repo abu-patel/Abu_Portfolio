@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering on Abuzar Patel</title>
+    <link>https://abu-patel.github.io/Abu_Portfolio/tags/clustering/</link>
+    <description>Recent content in Clustering on Abuzar Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abu-patel.github.io/Abu_Portfolio/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Determining Optimal Number of Clusters using Unknown Variables</title>
+      <link>https://abu-patel.github.io/Abu_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 09 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abu-patel.github.io/Abu_Portfolio/post/project-2/</guid>
+      <description>Determining optimal number of clusters is always a challenge as there is no clear way to do so. It becomes even more difficult when variables are unknown and variables are &amp;gt;= observations (P&amp;gt;=n), thus eliminating domain knowledge bias and relying strictly on statistical techniques. PCA was initially performed to reduce 750 features down to 400 and using these principal components I optimized several Hierarchical, K means, Gap Statistics, Model Based clustering, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
